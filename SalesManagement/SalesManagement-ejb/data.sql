@@ -1,0 +1,2 @@
+INSERT INTO SALES.COMPANY (companyname, companydescription) values('First company', 'Sales bananas');
+INSERT INTO SALES.COMPANY (companyname, companydescription) values('Second company', 'Sales oranges');
